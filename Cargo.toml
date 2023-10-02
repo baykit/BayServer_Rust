@@ -1,0 +1,13 @@
+[package]
+name = "bayserver"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Michisuke-P <michisukep@gmail.com>"]
+description = "BayServer is one of the high-speed web servers. It operates as a single-threaded, asynchronous server, which makes it exceptionally fast. It also supports multi-core processors, harnessing the full potential of the CPU's capabilities."
+documentation = "http://baykit.yokohama"
+homepage = "http://baykit.yokohama"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
